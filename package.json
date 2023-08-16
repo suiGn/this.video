@@ -1,24 +1,23 @@
 {
-    "name": "this.video",
-    "version": "1.0.0",
-    "description": "this.video",
-    "main": "index.js",
-    "scripts": {
-      "test": "test"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/suiGn/this.video.git"
-    },
-    "keywords": [
-      "deepLearning",
-      "WebComponents"
-    ],
-    "author": "suiGn",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/suiGn/this.video/issues"
-    },
-    "homepage": "https://github.com/suiGn/this.video#readme"
-  }
-  
+  "name": "this.video",
+  "version": "1.0.0",
+  "description": "this.video",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/this.video.git"
+  },
+  "keywords": [
+    "deepLearning",
+    "WebComponents"
+  ],
+  "author": "suiGn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suiGn/this.video/issues"
+  },
+  "homepage": "https://github.com/suiGn/this.video#readme"
+}
