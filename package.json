@@ -14,10 +14,11 @@
     "deepLearning",
     "WebComponents"
   ],
-  "author": "suiGn",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suiGn/this.video/issues"
   },
-  "homepage": "https://github.com/suiGn/this.video#readme"
+  "homepage": "https://github.com/suiGn/this.video#readme",
+  "author": "suiGn",
+  "license": "MIT",
+  "repoType": "NPM Package"
 }
