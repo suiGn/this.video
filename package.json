@@ -6,10 +6,6 @@
   "scripts": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/suiGn/this.video.git"
-  },
   "keywords": [
     "deepLearning",
     "WebComponents"
@@ -17,7 +13,12 @@
   "bugs": {
     "url": "https://github.com/suiGn/this.video/issues"
   },
-  "homepage": "https://github.com/suiGn/this.video#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/this.video.git"
+  },
+  "homepage": "https://www.npmjs.com/package/this.video",
+  "docs": "https://suiGn.github.io/this.video",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "NPM Package"
