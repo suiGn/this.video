@@ -1,8 +1,16 @@
-# this.video
+# THIS.VIDEO
 
-(In Development)
+-----------
 
-Introduction to this.video:
+### [Project Status : Experimental and Under Development, Subject to Major Changes]
+
+The module is in active development, and as such, it is subject to significant changes as we refine our approach and methodologies to best support our goals.
+
+visit: https://neurons.me to learn more.
+
+----------
+
+# Introduction to this.video:
 
 In the evolving landscape of web technology and machine learning, the this.video module emerges as an integral part of the "all.this" family, aimed at standardizing video elements for enhanced machine learning interoperability. As part of the neurons.me ecosystem, this.video is designed to transform video content from the web into a structured, machine-learning-ready format, addressing the challenge of efficiently utilizing rich media in ML models.
 
@@ -19,6 +27,10 @@ Future Outlook:
 While still under development, this.video is poised to become a cornerstone in the data preparation pipeline for machine learning, offering a systematic approach to harnessing the potential of video data. Its development is a testament to the commitment to innovation in the field of data science and ML, promising to set new standards for how video content is processed and analyzed in the realm of intelligent technologies.
 
 
+
+
+
+----------
 
 # About All.This
 
@@ -38,10 +50,18 @@ While still under development, this.video is poised to become a cornerstone in t
 
 visit: [Neurons.me Glossary](https://suign.github.io/neurons.me/Glossary) 
 
-Learn more at https://neurons.me
+## License & Policies
 
-**Author:** SuiGn
+- **License**: MIT License (see LICENSE for details).
 
-[By neurons.me](https://neurons.me)
+- **Privacy Policy**: Respects user privacy; no collection/storage of personal data.
 
-<img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
+- **Terms of Usage**: Use responsibly. No guarantees/warranties provided. [Terms](https://www.neurons.me/terms-of-use) | [Privacy](https://www.neurons.me/privacy-policy)
+
+  **Learn more** at https://neurons.me
+
+  **Author:** SuiGn
+
+  [By neurons.me](https://neurons.me)
+
+  <img src="https://suign.github.io/neurons.me/neurons_logo.png" alt="neurons.me logo" width="123" height="123" style="width123px; height:123px;">
